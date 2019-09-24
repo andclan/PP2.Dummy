@@ -1,0 +1,7 @@
+D:\Paramadina\Ajar\AP2\Latihan_01\Latihan_01\bin\Debug\Latihan_01.exe.config
+D:\Paramadina\Ajar\AP2\Latihan_01\Latihan_01\bin\Debug\Latihan_01.exe
+D:\Paramadina\Ajar\AP2\Latihan_01\Latihan_01\bin\Debug\Latihan_01.pdb
+D:\Paramadina\Ajar\AP2\Latihan_01\Latihan_01\obj\Debug\Latihan_01.csprojAssemblyReference.cache
+D:\Paramadina\Ajar\AP2\Latihan_01\Latihan_01\obj\Debug\Latihan_01.csproj.CoreCompileInputs.cache
+D:\Paramadina\Ajar\AP2\Latihan_01\Latihan_01\obj\Debug\Latihan_01.exe
+D:\Paramadina\Ajar\AP2\Latihan_01\Latihan_01\obj\Debug\Latihan_01.pdb
